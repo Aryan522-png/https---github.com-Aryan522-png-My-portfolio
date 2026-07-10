@@ -3,23 +3,18 @@ import { useEffect , useMemo, useRef ,useState} from "react";
 
 const experiences=[
    {
-    role: "Web Developer",
-    company: "Brain Mentors",
-    duration: "2022",
-    description: "Built high-performance apps, integrated AI features, improved engagement by 10%.",
+    role: "Full stack Developer",
+    company: "Self-Employed",
+    duration: "2026",
+    description: "Built a responsive Movie Booking Website that uses mongo DB , Clerk , Inngest .",
   },
   {
     role: "Web Developer Intern",
-    company: "Mobisoft Technologies",
-    duration: "2022 - 2023",
+    company: "1Stop",
+    duration: "2025",
     description: "Gained hands-on web development experience.",
   },
-  {
-    role: "Graduate Engineer",
-    company: "HCL Technologies",
-    duration: "2024 - 2025",
-    description: "Built frontend of GenAI-powered PV Intake App with Next.js & TS for US client.",
-  },
+  
 
 ];
 
