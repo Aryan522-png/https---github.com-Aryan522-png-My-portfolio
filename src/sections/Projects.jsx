@@ -37,8 +37,8 @@ export default function Projects(){
   const sceneRef=useRef(null);
   const projects=useMemo(()=>[
     {
-      title:"nk Studio",
-      link:"https.",
+      title:"Bookify",
+      link:"https://quickshow-ten-amber.vercel.app/",
       bgColor:"#0d4d3d",
       image:isMobile?photo1:img1
     },
